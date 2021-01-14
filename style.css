@@ -1,0 +1,42 @@
+.line {
+    height: 6px;
+    background-color: black;
+    width: 100px;
+    margin: 8px auto;
+}
+
+img {
+    border-radius: 100%;
+    width: 100px;
+}
+
+.welcome {
+    text-align: center;
+    background-image: linear-gradient(pink 0%, turquoise 100%);
+    background-repeat: no-repeat;
+}
+
+.about{
+    text-align: center;
+    background-image: linear-gradient(yellow 0%, red 100%);
+    background-repeat: no-repeat;  
+}
+
+h1 {
+    text-shadow: 2px 2px gray;
+    font-size: 20px;
+}
+
+.menu{
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+}
+
+
+
+
