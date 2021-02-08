@@ -5,7 +5,7 @@
     margin: 8px auto;
 }
 
-img {
+.benifit {
     border-radius: 100%;
     width: 100px;
 }
@@ -37,6 +37,35 @@ h1 {
     color: black;
 }
 
+.fav_hobby{
+ text-align: center;
+    background-image: linear-gradient(lightgreen 0%, darkgreen 100%);
+    background-repeat: no-repeat;     
+}
 
+.button{
+    width: 150px;
+    background-color: aqua;
+    font-weight: 700;
+    
+}
+
+.badminton {
+    width: 200px;
+    height: 200px;
+    
+}
+
+#storybody{
+    background-image: linear-gradient(purple 0%, skyblue 50%, pink 100%);
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+.my_works{
+   background-image: linear-gradient(lightpink 0%, white 100%) 
+}
 
 
