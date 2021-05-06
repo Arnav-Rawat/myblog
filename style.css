@@ -34,7 +34,9 @@ h1 {
     top: 10px;
     right: 30px;
     cursor: pointer;
-    color: black;
+    color: white;
+    display: inline;
+    background-color: black;
 }
 
 .fav_hobby{
@@ -70,5 +72,9 @@ html{
 
 .my_inspiration{
     background-image: linear-gradient(blue 0%, darkblue 100%)
+}
+
+#myname{
+    !important
 }
 
